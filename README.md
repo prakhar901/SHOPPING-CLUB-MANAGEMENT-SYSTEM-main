@@ -1,2 +1,2 @@
-# SHOPPING-CLUB-MANAGEMENT-SYSTEM-main
-i developed a shopping club management system for users using data structures and algorithms
+# SHOPPING-CLUB-MANAGEMENT-SYSTEM
+Project based on Data Structures Using C++
